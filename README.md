@@ -57,4 +57,5 @@ python -m grpc_tools.protoc -I. --python_out=. --grpc_python_out=. signaling.pro
 -  9/9 steps successful
 -  Execution time: ~8 seconds
 
+https://github.com/user-attachments/assets/2a53eb86-9b5c-4123-bc71-7d8c71104818
 ---
